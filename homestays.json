@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11,
+    "nama": "Keraton Homestay",
+    "fotoUrl": "https://homestayjogja.b-cdn.net/homestay/images/homestay-nitikan-15-1676455995.jpg",
+    "harga": 760,
+    "lat": -7.800375,
+    "lng": 110.366378
+  },
+  {
+    "id": 12,
+    "nama": "Pakualaman Homestay",
+    "fotoUrl": "https://homestayjogja.b-cdn.net/homestay/images/homestay-ambarukmo-2-3-1701066505.jpg",
+    "harga": 550,
+    "lat": 7.816521,
+    "lng": 110.375221
+  },
+  {
+    "id": 13,
+    "nama": "Malioboro Homestay",
+    "fotoUrl": "https://homestayjogja.b-cdn.net/homestay/images/1602666698.homestay-jogja-tengah-kota-murah-ruang-tamu-1.jpg",
+    "harga": 430,
+    "lat": 7.806515,
+    "lng": 110.367711
+  },
+  {
+    "id": 14,
+    "nama": "Ndalem Simbah Homestay",
+    "fotoUrl": "https://homestayjogja.b-cdn.net/homestay/images/homestay-nologaten-1-1670662503.jpg",
+    "harga": 315,
+    "lat": -7.8118476,
+    "lng": 110.3609755
+  },
+  {
+    "id": 15,
+    "nama": "Rumah Mertua Homestay",
+    "fotoUrl": "https://homestayjogja.b-cdn.net/homestay/images/homestay-timoho-2-24-1694158899.jpg",
+    "harga": 435,
+    "lat": -7.807883,
+    "lng": 110.364784
+  },
+  {
+    "id": 16,
+    "nama": "Top Malioboro Homestay",
+    "fotoUrl": "https://homestayjogja.b-cdn.net/homestay/images/homestay-jec-kuning-17-1689409757.jpg",
+    "harga": 390,
+    "lat": -7.803695,
+    "lng": 110.3622303
+  }
+]
