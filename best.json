@@ -1,0 +1,28 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "judul": "Konsep & Implementasi Pemrograman Laravel 7",
+      "penulis": "Lukmanul Hakim",
+      "harga": "Rp. 88.000",
+      "image": "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2024/6/2/zynkbhwxfpp27ey3ajx4xn.jpg",
+      "synopsis": "Buku ini akan membantu Anda untuk mempelajari Laravel 7 dengan cara mudah. Materi tidak ada bentuk Langkah Demi Langkah. Setiap materi disertai Studi Kasus. Bahkan, beberapa materi akan dalam dokumentasi resmi Laravel."
+    },
+    {
+      "id": 2,
+      "judul": "Jalan Pintas Menjadi Master ReactJS",
+      "penulis": "Lukmanul Hakim",
+      "harga": "Rp. 43.800",
+      "image": "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/products/c5a6ph9z9p.jpg",
+      "synopsis": "Buku ini akan membahas bagaimana cara bikin Aplikasi Zaman Now! Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang digunakan oleh Facebook. Aplikasi yang dibuat Reactjs terlihat super cepat, stabil, responsif, interaktif dan cool."
+    },
+    {
+      "id": 3,
+      "judul": "Website Super WOW dengan PHP & JQuery",
+      "penulis": "Lukmanul Hakim",
+      "harga": "Rp. 57.800",
+      "image": "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2024/6/2/f7feqrft2uhhz3ze7jasq6.jpg",
+      "synopsis": "Jadi, kamu harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas proyek website dengan banyak fitur. Tidak hanya itu, halaman administrasi juga menggunakan tampilan keren khas JQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
+    }
+  ]
+}
